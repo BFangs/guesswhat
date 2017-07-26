@@ -1,0 +1,32 @@
+{
+  "name": "guesswhat",
+  "version": "1.0.0",
+  "description": "guessing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BFangs/guesswhat.git"
+  },
+  "author": "Boya Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BFangs/guesswhat/issues"
+  },
+  "homepage": "https://github.com/BFangs/guesswhat#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.4.1"
+  }
+}
